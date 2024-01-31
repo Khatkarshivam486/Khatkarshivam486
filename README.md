@@ -1,5 +1,4 @@
-![Header](./![github-header-image](https://github.com/Khatkarshivam486/Khatkarshivam486/assets/158277532/2e089297-036a-4abb-a8a1-1bf84660df7b)
-)
+![logo](https://github.com/Khatkarshivam486/Khatkarshivam486/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
